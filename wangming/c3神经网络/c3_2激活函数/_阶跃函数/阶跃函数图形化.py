@@ -1,4 +1,4 @@
-import wangming.c3神经网络.c3_2激活函数.s阶跃函数.demo1 as demo1
+import wangming.c3神经网络.c3_2激活函数._阶跃函数.demo1 as demo1
 import numpy as np
 import matplotlib.pyplot as plt
 
